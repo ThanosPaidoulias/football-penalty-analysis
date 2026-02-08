@@ -25,14 +25,6 @@ source("analysis.R")
 
 ---
 
-## 📂 Output Locations
-
-After running, check:
-- `outputs/figures/` - All plots
-- `outputs/tables/` - Statistical tables
-
----
-
 ## 🐛 Troubleshooting
 
 **File not found error:**
