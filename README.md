@@ -71,10 +71,7 @@ football-penalty-analysis/
 ├── data/
 │   ├── README.md               # Data format instructions
 │   └── penalty_dataset.csv     # Your data (add this)
-│
-└── outputs/                    # Generated when you run analysis.R
-    ├── figures/                # Plots (.png)
-    └── tables/                 # Statistical tables (.html)
+
 ```
 
 ---
@@ -86,15 +83,14 @@ football-penalty-analysis/
 install.packages(c("data.table", "ggplot2", "MCMCpack", "reshape2", "knitr"))
 ```
 
-### 2. Add Your Data
+### 2. Add Your Data or Use the Existing Dataset
 Place `penalty_dataset.csv` in the `data/` folder
 
 ### 3. Run Analysis
 ```r
-source("analysis.R")
+source("Analysis.R")
 ```
 
-**Runtime:** ~5-8 minutes
 
 ---
 
@@ -132,8 +128,7 @@ Four approaches combined:
 ## 👤 Author
 
 **Thanos Paidoulias**
-- Data Scientist, Marketing Analytics
-- [LinkedIn](https://www.linkedin.com/in/thanos-paidoulias/)
+- [https://www.linkedin.com/in/thanos-paidoulias/]
 - [GitHub](https://github.com/ThanosPaidoulias)
 
 ---
