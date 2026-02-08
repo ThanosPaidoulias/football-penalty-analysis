@@ -63,6 +63,7 @@ A comprehensive statistical investigation of football penalty kicks addressing t
 ```
 football-penalty-analysis/
 ├── README.md                    # This file
+├── FOOTBALL PENALTY ANALYSIS    # Full report
 ├── SETUP.md                     # Setup instructions
 ├── analysis.R                   # Complete analysis script
 ├── requirements.txt             # R package dependencies
