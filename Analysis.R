@@ -2,7 +2,6 @@ library(data.table)
 library(ggplot2)
 library(MCMCpack)
 library(reshape2)
-##### TASK 1 #####
 
 #### QUESTION 1:Penalty conversion difference between men and women ####
 penaltyDT <- fread("./data/penalty_dataset.csv")
